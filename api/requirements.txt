@@ -1,0 +1,3 @@
+Flask==1.0
+WeasyPrint==0.42.3
+Flask-WeasyPrint
